@@ -10,7 +10,7 @@ This HR Analytics Dashboard provides a comprehensive analysis of employee data t
 
 - `HR Data.xlsx`: Contains raw employee data including demographics, job roles, education, and attrition status.
 - `project.twbx`: Tableau Packaged Workbook containing the complete dashboard with visualizations.
-- `Screenshot 2025-05-27 092718.png`: A snapshot of the final dashboard for quick reference.
+- `Dashboard.png`: A snapshot of the final dashboard for quick reference.
 
 ---
 
